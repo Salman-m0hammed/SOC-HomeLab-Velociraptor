@@ -1,0 +1,1 @@
+Artifact: [[Windows.Network.Netstat]] Rows: 75 Finding: [[Port 139]] LISTEN Triggered by: [[Nmap Detection]]

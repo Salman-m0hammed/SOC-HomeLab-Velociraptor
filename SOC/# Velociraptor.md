@@ -1,0 +1,1 @@
+Version: [[v0.76.1]] Server: [[Windows 11 Pro]] Port: 8889 Connected Clients: [[SOC_LAB]] + [[Ubuntu]] Hunts: [[Hunt 1 - Users]] + [[Hunt 2 - Netstat]]

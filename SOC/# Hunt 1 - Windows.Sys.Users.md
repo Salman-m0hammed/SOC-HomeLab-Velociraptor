@@ -1,0 +1,1 @@
+Artifact: [[Windows.Sys.Users]] Rows: 4 [[SYSTEM]] - UID 18 [[LOCAL SERVICE]] - UID 19 [[NETWORK SERVICE]] - UID 20 [[sq242]] - UID 1001

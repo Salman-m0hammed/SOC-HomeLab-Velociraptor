@@ -1,0 +1,1 @@
+Source: [[Kali Linux]] Target: [[Windows 11 Pro]] Result: All ports filtered Detected by: [[Velociraptor]] Port found: [[Port 139]]

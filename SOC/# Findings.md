@@ -1,0 +1,1 @@
+[[Port 139]] — LISTEN during Nmap scan [[sq242]] — Primary user discovered Firewall blocked scan but [[Velociraptor]] detected internally [[Hunt 1 - Users]] — 4 accounts found [[Hunt 2 - Netstat]] — 75 connections captured

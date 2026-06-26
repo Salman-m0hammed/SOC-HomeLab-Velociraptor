@@ -1,0 +1,1 @@
+IP: 192.168.0.101 User: [[sq242]] Tools: [[Velociraptor]] + [[Sysmon]] Role: Target + Server
