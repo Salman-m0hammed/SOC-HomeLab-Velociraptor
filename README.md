@@ -1,1 +1,1 @@
-# SOC-Home-Lab-Velociraptor
+# SOC-HomeLab-Velociraptor
